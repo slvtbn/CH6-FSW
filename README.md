@@ -8,4 +8,4 @@ password : superadmin
 
 ## Dokumentasi API
 
-Link : https://documenter.getpostman.com/view/20476061/Uyxho7N7
+Link : https://documenter.getpostman.com/view/11058366/Uyxhondf
